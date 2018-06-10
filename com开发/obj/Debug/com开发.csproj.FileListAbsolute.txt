@@ -1,0 +1,5 @@
+E:\csharp\com开发\com开发\bin\Debug\com开发.dll
+E:\csharp\com开发\com开发\bin\Debug\com开发.pdb
+E:\csharp\com开发\com开发\obj\Debug\com开发.csprojResolveAssemblyReference.cache
+E:\csharp\com开发\com开发\obj\Debug\com开发.dll
+E:\csharp\com开发\com开发\obj\Debug\com开发.pdb
